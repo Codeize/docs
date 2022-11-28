@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    "@auto-it/git-tag"
+  ],
+  "owner": "codeize",
+  "repo": "docs",
+  "name": "codeize",
+  "email": "mrcodeize@gmail.com"
+}

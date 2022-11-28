@@ -1,0 +1,7 @@
+{
+  "line-length": false,
+  "MD007": { "indent": 4 },
+  "no-inline-html": {
+    "allowed_elements": ["a"]
+  }
+}

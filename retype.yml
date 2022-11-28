@@ -1,0 +1,40 @@
+input: ./
+output: .retype
+url: https://retype-with-vercel.vercel.app/
+
+branding:
+  title: Retype with Vercel
+  label: v0.0.12
+
+search:
+  hotkeys:
+    - "/"
+
+meta:
+  title: " | Retype with Vercel"
+
+edit:
+  repo: github.com/murshidazher/retype-with-vercel
+
+links:
+  - text: Home
+    link: /README.md
+    icon: home
+
+  - text: Issues
+    link: https://github.com/murshidazher/retype-with-vercel/issues
+    icon: issue-opened
+    target: blank
+
+  - text: Discussions
+    link: https://github.com/murshidazher/retype-with-vercel/discussions
+    icon: comment-discussion
+    target: blank
+
+  - text: GitHub
+    link: https://github.com/murshidazher/retype-with-vercel
+    icon: mark-github
+    target: blank
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
