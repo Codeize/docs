@@ -4,7 +4,7 @@ icon: versions
 ---
 # Changelog
 
-## v0.0.12 (Sat Jan 08 2022)
+### v0.0.12 (Sat Jan 08 2022)
 
 ### ⚠️ Pushed to `main`
 
@@ -17,7 +17,7 @@ icon: versions
 
 ---
 
-## v0.0.11 (Sat Jan 08 2022)
+### v0.0.11 (Sat Jan 08 2022)
 
 ### ⚠️ Pushed to `main`
 
@@ -29,7 +29,7 @@ icon: versions
 
 ---
 
-## v0.0.10 (Sat Jan 08 2022)
+### v0.0.10 (Sat Jan 08 2022)
 
 ### ⚠️ Pushed to `main`
 
@@ -41,7 +41,7 @@ icon: versions
 
 ---
 
-## v0.0.9 (Sat Jan 08 2022)
+### v0.0.9 (Sat Jan 08 2022)
 
 ### ⚠️ Pushed to `main`
 
@@ -51,7 +51,7 @@ icon: versions
 
 - Murshid Azher ([@murshidazher](https://github.com/murshidazher))
 
-## v0.0.8 (Sat Jan 08 2022)
+### v0.0.8 (Sat Jan 08 2022)
 
 ### ⚠️ Pushed to `main`
 
@@ -63,7 +63,7 @@ icon: versions
 
 ---
 
-## v0.0.7 (Sat Jan 08 2022)
+### v0.0.7 (Sat Jan 08 2022)
 
 ### ⚠️ Pushed to `main`
 
@@ -75,7 +75,7 @@ icon: versions
 
 ---
 
-## v0.0.6 (Sat Jan 08 2022)
+### v0.0.6 (Sat Jan 08 2022)
 
 ### ⚠️ Pushed to `main`
 
@@ -87,7 +87,7 @@ icon: versions
 
 ---
 
-## v0.0.5 (Sat Jan 08 2022)
+### v0.0.5 (Sat Jan 08 2022)
 
 ### ⚠️ Pushed to `main`
 
@@ -99,7 +99,7 @@ icon: versions
 
 ---
 
-## v0.0.4 (Sat Jan 08 2022)
+### v0.0.4 (Sat Jan 08 2022)
 
 ### ⚠️ Pushed to `main`
 
@@ -111,7 +111,7 @@ icon: versions
 
 ---
 
-## v0.0.3 (Sat Jan 08 2022)
+### v0.0.3 (Sat Jan 08 2022)
 
 ### ⚠️ Pushed to `main`
 
@@ -123,7 +123,7 @@ icon: versions
 
 ---
 
-## v0.0.2 (Sat Jan 08 2022)
+### v0.0.2 (Sat Jan 08 2022)
 
 ### ⚠️ Pushed to `main`
 
@@ -136,7 +136,7 @@ icon: versions
 
 ---
 
-## v0.0.1 (Sat Jan 08 2022)
+### v0.0.1 (Sat Jan 08 2022)
 
 ### ⚠️ Pushed to `main`
 
