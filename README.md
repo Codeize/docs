@@ -13,7 +13,7 @@ icon: home
 - Github Workflow actions for automation of Release, CHANGELOG style and bumping Retype version.
 
 ## Installation & Usage
-
+ertghet5t5erg
 > ⚠️ Make sure npm version `v12.16.1` is installed on your development machine.
 
 ```sh
